@@ -1,0 +1,1 @@
+{"data":{"site":{"siteMetadata":{"title":"Example of gatsby-remark-vega"}},"allMarkdownRemark":{"edges":[{"node":{"excerpt":"My awesome post needs a chart: Look at that chart!","fields":{"slug":"/hello-world/"},"frontmatter":{"date":"25 May, 2018","title":"An example chart"}}}]}},"pathContext":{}}

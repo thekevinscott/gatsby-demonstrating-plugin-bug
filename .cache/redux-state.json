@@ -1,0 +1,1921 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/www/gatsby-remark-vega-example/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/www/gatsby-remark-vega-example/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "472123e6e12f0e89b4dcbe6abc8d6255",
+        "description": "Plugin dev-404-page",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f90c861d4be816c19e58ca72f44913a3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c241b026aefa798ed43c7046f488f898",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f25e094293989e487b025e4c5c43d9d7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a5866ef5487b110bc6927706fd1a4d96",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0a37a88b72885e93a3e534f43c743664",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "bc483fdb9190316b60e520e685dff5f8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.36",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/www/gatsby-remark-vega-example/src/pages",
+        "name": "pages"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.36",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.250"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3c268c64b0c1981f3f821b5017ad328f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.41",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby-remark-external-links",
+            "id": "Plugin gatsby-remark-external-links",
+            "name": "gatsby-remark-external-links",
+            "version": "0.0.4",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby-remark-external-links"
+          },
+          {
+            "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby-remark-copy-linked-files",
+            "id": "Plugin gatsby-remark-copy-linked-files",
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "1.5.32",
+            "pluginOptions": {
+              "plugins": [],
+              "ignoreFileExtensions": [
+                "png",
+                "jpg",
+                "jpeg",
+                "bmp",
+                "tiff"
+              ]
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby-remark-copy-linked-files"
+          },
+          {
+            "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby-remark-autolink-headers",
+            "id": "Plugin gatsby-remark-autolink-headers",
+            "name": "gatsby-remark-autolink-headers",
+            "version": "1.4.18",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [
+              "onClientEntry",
+              "onRouteUpdate"
+            ],
+            "ssrAPIs": [
+              "onRenderBody"
+            ],
+            "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby-remark-autolink-headers"
+          },
+          {
+            "resolve": "/www/gatsby-remark-vega/dist",
+            "id": "Plugin gatsby-remark-vega",
+            "name": "gatsby-remark-vega",
+            "version": "0.2.1",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/www/gatsby-remark-vega/dist"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.41",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b22fe097cd592143a2e63714b58123e9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-external-links": {
+      "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby-remark-external-links",
+      "id": "Plugin gatsby-remark-external-links",
+      "name": "gatsby-remark-external-links",
+      "version": "0.0.4",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby-remark-external-links",
+      "packageJson": {
+        "name": "gatsby-remark-external-links",
+        "description": "Automatically adds the target and rel attributes to external links in markdown.",
+        "version": "0.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": "Jimmy Longley <jimmylongley@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "unist-util-find",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          },
+          {
+            "name": "dedent",
+            "version": "^0.7.0"
+          },
+          {
+            "name": "jest",
+            "version": "^21.2.1"
+          },
+          {
+            "name": "remark",
+            "version": "^8.0.0"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c55d9487563f7ba00eec8c12378bc8a3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-copy-linked-files": {
+      "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby-remark-copy-linked-files",
+      "id": "Plugin gatsby-remark-copy-linked-files",
+      "name": "gatsby-remark-copy-linked-files",
+      "version": "1.5.32",
+      "pluginOptions": {
+        "plugins": [],
+        "ignoreFileExtensions": [
+          "png",
+          "jpg",
+          "jpeg",
+          "bmp",
+          "tiff"
+        ]
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby-remark-copy-linked-files",
+      "packageJson": {
+        "name": "gatsby-remark-copy-linked-files",
+        "description": "Find files which are linked to from markdown and copy them to the public directory",
+        "version": "1.5.32",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "path-is-inside",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "10d15c1a2b3aaf6ca854c248cad05381",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-autolink-headers": {
+      "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby-remark-autolink-headers",
+      "id": "Plugin gatsby-remark-autolink-headers",
+      "name": "gatsby-remark-autolink-headers",
+      "version": "1.4.18",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onClientEntry",
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby-remark-autolink-headers",
+      "packageJson": {
+        "name": "gatsby-remark-autolink-headers",
+        "description": "Gatsby plugin to autolink headers in markdown processed by Remark",
+        "version": "1.4.18",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "github-slugger",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "mdast-util-to-string",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d9dbaa09401219396584d80d85848a5f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-vega": {
+      "resolve": "/www/gatsby-remark-vega/dist",
+      "id": "Plugin gatsby-remark-vega",
+      "name": "gatsby-remark-vega",
+      "version": "0.2.1",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/www/gatsby-remark-vega/dist",
+      "packageJson": {
+        "name": "gatsby-remark-vega",
+        "version": "0.2.1",
+        "main": "dist/index.js",
+        "keywords": [
+          "vega",
+          "gatsby-transform-remark",
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "dependencies": [
+          {
+            "name": "react",
+            "version": "^16.4.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.1"
+          },
+          {
+            "name": "vega-embed",
+            "version": "^3.13.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-es2015-modules-commonjs",
+            "version": "^6.26.2"
+          },
+          {
+            "name": "babel-plugin-transform-react-jsx",
+            "version": "^6.24.1"
+          },
+          {
+            "name": "babel-preset-es2015",
+            "version": "^6.24.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "65d23ee30ccb99e9d18e8d9de5409987",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.24",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.24",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5939e1be8080e13fc92f846462c4481f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.44",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.44",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "5.0.1"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.20.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9751efec122770a6dcbb1c39be82b3d2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-google-analytics": {
+      "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby-plugin-google-analytics",
+      "id": "Plugin gatsby-plugin-google-analytics",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "1.0.31",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "1.0.31",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ed425ecba4cf4aa186281702d72772a8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-feed": {
+      "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby-plugin-feed",
+      "id": "Plugin gatsby-plugin-feed",
+      "name": "gatsby-plugin-feed",
+      "version": "1.3.22",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby-plugin-feed",
+      "packageJson": {
+        "name": "gatsby-plugin-feed",
+        "description": "Creates an RSS feed for your Gatsby site.",
+        "version": "1.3.22",
+        "main": "index.js",
+        "keywords": [
+          "atom",
+          "feed",
+          "gatsby",
+          "gatsby-plugin",
+          "rss"
+        ],
+        "author": "Nicholas Young <nicholas@nicholaswyoung.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "lodash.merge",
+            "version": "^4.6.0"
+          },
+          {
+            "name": "pify",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "rss",
+            "version": "^1.2.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "baf089a1e5a2b4d78d70cbd3c5b9572a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-offline": {
+      "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby-plugin-offline",
+      "id": "Plugin gatsby-plugin-offline",
+      "name": "gatsby-plugin-offline",
+      "version": "1.0.16",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "browserAPIs": [
+        "registerServiceWorker"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "1.0.16",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "sw-precache",
+            "version": "^5.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6503b138be8f2787d92cea7acc05036e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "1.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "1.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "dee47638e37783d6f687be9ac56f93a3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-typography": {
+      "resolve": "/www/gatsby-remark-vega-example/node_modules/gatsby-plugin-typography",
+      "id": "Plugin gatsby-plugin-typography",
+      "name": "gatsby-plugin-typography",
+      "version": "1.7.18",
+      "pluginOptions": {
+        "plugins": [],
+        "pathToConfigModule": "src/utils/typography"
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/www/gatsby-remark-vega-example/node_modules/gatsby-plugin-typography",
+      "packageJson": {
+        "name": "gatsby-plugin-typography",
+        "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
+        "version": "1.7.18",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "typography",
+          "typography.js"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.1"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c0a06228c6d1b757ada08720236800e7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/www/gatsby-remark-vega-example",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "217d2ab4ef3b33d6896479751c5c1842",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onCreateNode"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/www/gatsby-remark-vega-example",
+      "packageJson": {
+        "name": "gatsby-starter-blog",
+        "description": "Starter Gatsby Blog",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.250"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.39"
+          },
+          {
+            "name": "gatsby-plugin-feed",
+            "version": "^1.3.20"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^1.0.29"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^1.0.15"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.42"
+          },
+          {
+            "name": "gatsby-plugin-typography",
+            "version": "^1.7.18"
+          },
+          {
+            "name": "gatsby-remark-autolink-headers",
+            "version": "^1.4.18"
+          },
+          {
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "^1.5.31"
+          },
+          {
+            "name": "gatsby-remark-external-links",
+            "version": "0.0.4"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^1.5.61"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "^1.2.24"
+          },
+          {
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "^1.4.18"
+          },
+          {
+            "name": "gatsby-remark-smartypants",
+            "version": "^1.4.12"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.31"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.41"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.22"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.5"
+          },
+          {
+            "name": "rehype-react",
+            "version": "^3.0.2"
+          },
+          {
+            "name": "typeface-merriweather",
+            "version": "0.0.43"
+          },
+          {
+            "name": "typeface-montserrat",
+            "version": "0.0.43"
+          },
+          {
+            "name": "typography-theme-wordpress-2016",
+            "version": "^0.15.10"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "eslint",
+            "version": "^4.19.1"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.7.0"
+          },
+          {
+            "name": "gh-pages",
+            "version": "^1.1.0"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.12.0"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "adda2f4da9132c87163e0968c976e8dd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Example of gatsby-remark-vega",
+        "author": "Kevin Scott"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-05-26T14:00:51.915Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a36ecba07068ee29fb5221b6d74e78ba",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/www/gatsby-remark-vega-example/src/pages absPath of file": {
+      "id": "/www/gatsby-remark-vega-example/src/pages absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0eb45c9c88f22420ec93ba9ff445cf20",
+        "type": "Directory",
+        "description": "Directory \"src/pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/www/gatsby-remark-vega-example/src/pages",
+      "relativePath": "",
+      "extension": "",
+      "size": 160,
+      "prettySize": "160 B",
+      "modifiedTime": "2018-05-25T21:27:17.337Z",
+      "accessTime": "2018-05-26T14:00:54.652Z",
+      "changeTime": "2018-05-25T21:27:17.337Z",
+      "birthTime": "2018-05-25T21:24:38.935Z",
+      "root": "/",
+      "dir": "/www/gatsby-remark-vega-example/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8592547836,
+      "blocks": 0,
+      "atimeMs": 1527343254652.4534,
+      "mtimeMs": 1527283637337.442,
+      "ctimeMs": 1527283637337.442,
+      "birthtimeMs": 1527283478934.6838,
+      "atime": "2018-05-26T14:00:54.652Z",
+      "mtime": "2018-05-25T21:27:17.337Z",
+      "ctime": "2018-05-25T21:27:17.337Z",
+      "birthtime": "2018-05-25T21:24:38.935Z"
+    },
+    "/www/gatsby-remark-vega-example/src/pages/hello-world absPath of file": {
+      "id": "/www/gatsby-remark-vega-example/src/pages/hello-world absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2ba750821b9a91472ddf6407441c3f0b",
+        "type": "Directory",
+        "description": "Directory \"src/pages/hello-world\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/www/gatsby-remark-vega-example/src/pages/hello-world",
+      "relativePath": "hello-world",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-05-25T21:27:37.651Z",
+      "accessTime": "2018-05-26T14:00:54.655Z",
+      "changeTime": "2018-05-25T21:27:37.651Z",
+      "birthTime": "2018-05-25T21:24:38.935Z",
+      "root": "/",
+      "dir": "/www/gatsby-remark-vega-example/src/pages",
+      "base": "hello-world",
+      "ext": "",
+      "name": "hello-world",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8592547838,
+      "blocks": 0,
+      "atimeMs": 1527343254655.1206,
+      "mtimeMs": 1527283657651.2285,
+      "ctimeMs": 1527283657651.2285,
+      "birthtimeMs": 1527283478934.9138,
+      "atime": "2018-05-26T14:00:54.655Z",
+      "mtime": "2018-05-25T21:27:37.651Z",
+      "ctime": "2018-05-25T21:27:37.651Z",
+      "birthtime": "2018-05-25T21:24:38.935Z"
+    },
+    "/www/gatsby-remark-vega-example/src/pages/404.js absPath of file": {
+      "id": "/www/gatsby-remark-vega-example/src/pages/404.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8d50d9a7e3f04ddcc5ff8d43b6effe79",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/404.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/www/gatsby-remark-vega-example/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 198,
+      "prettySize": "198 B",
+      "modifiedTime": "2018-05-25T21:24:38.935Z",
+      "accessTime": "2018-05-26T14:00:50.276Z",
+      "changeTime": "2018-05-25T21:24:38.935Z",
+      "birthTime": "2018-05-25T21:24:38.935Z",
+      "root": "/",
+      "dir": "/www/gatsby-remark-vega-example/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8592547837,
+      "blocks": 8,
+      "atimeMs": 1527343250275.5896,
+      "mtimeMs": 1527283478934.8093,
+      "ctimeMs": 1527283478934.8093,
+      "birthtimeMs": 1527283478934.7456,
+      "atime": "2018-05-26T14:00:50.276Z",
+      "mtime": "2018-05-25T21:24:38.935Z",
+      "ctime": "2018-05-25T21:24:38.935Z",
+      "birthtime": "2018-05-25T21:24:38.935Z"
+    },
+    "/www/gatsby-remark-vega-example/src/pages/index.js absPath of file": {
+      "id": "/www/gatsby-remark-vega-example/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "88312b9458de1207461b29037d509e88",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/www/gatsby-remark-vega-example/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 1499,
+      "prettySize": "1.5 kB",
+      "modifiedTime": "2018-05-25T21:27:07.189Z",
+      "accessTime": "2018-05-26T14:00:50.276Z",
+      "changeTime": "2018-05-25T21:27:07.197Z",
+      "birthTime": "2018-05-25T21:24:38.938Z",
+      "root": "/",
+      "dir": "/www/gatsby-remark-vega-example/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8592547843,
+      "blocks": 8,
+      "atimeMs": 1527343250275.6128,
+      "mtimeMs": 1527283627189.0408,
+      "ctimeMs": 1527283627197.345,
+      "birthtimeMs": 1527283478938.259,
+      "atime": "2018-05-26T14:00:50.276Z",
+      "mtime": "2018-05-25T21:27:07.189Z",
+      "ctime": "2018-05-25T21:27:07.197Z",
+      "birthtime": "2018-05-25T21:24:38.938Z"
+    },
+    "/www/gatsby-remark-vega-example/src/pages/hello-world/index.md absPath of file": {
+      "id": "/www/gatsby-remark-vega-example/src/pages/hello-world/index.md absPath of file",
+      "children": [
+        "/www/gatsby-remark-vega-example/src/pages/hello-world/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7356948bf3cd17f209e4f7e5c20e0d30",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/hello-world/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/www/gatsby-remark-vega-example/src/pages/hello-world/index.md",
+      "relativePath": "hello-world/index.md",
+      "extension": "md",
+      "size": 137,
+      "prettySize": "137 B",
+      "modifiedTime": "2018-05-25T21:28:41.962Z",
+      "accessTime": "2018-05-26T14:00:50.096Z",
+      "changeTime": "2018-05-25T21:28:41.977Z",
+      "birthTime": "2018-05-25T21:24:38.935Z",
+      "root": "/",
+      "dir": "/www/gatsby-remark-vega-example/src/pages/hello-world",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "hello-world",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8592547839,
+      "blocks": 8,
+      "atimeMs": 1527343250096.1816,
+      "mtimeMs": 1527283721961.5884,
+      "ctimeMs": 1527283721977.4648,
+      "birthtimeMs": 1527283478934.9834,
+      "atime": "2018-05-26T14:00:50.096Z",
+      "mtime": "2018-05-25T21:28:41.962Z",
+      "ctime": "2018-05-25T21:28:41.977Z",
+      "birthtime": "2018-05-25T21:24:38.935Z"
+    },
+    "/www/gatsby-remark-vega-example/src/pages/hello-world/chart.json absPath of file": {
+      "id": "/www/gatsby-remark-vega-example/src/pages/hello-world/chart.json absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "94c090a30c2725d5662c4572d1adf7c2",
+        "mediaType": "application/json",
+        "type": "File",
+        "description": "File \"src/pages/hello-world/chart.json\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/www/gatsby-remark-vega-example/src/pages/hello-world/chart.json",
+      "relativePath": "hello-world/chart.json",
+      "extension": "json",
+      "size": 2226,
+      "prettySize": "2.23 kB",
+      "modifiedTime": "2018-05-25T21:27:55.747Z",
+      "accessTime": "2018-05-26T14:00:54.655Z",
+      "changeTime": "2018-05-25T21:27:55.763Z",
+      "birthTime": "2018-05-25T21:27:37.651Z",
+      "root": "/",
+      "dir": "/www/gatsby-remark-vega-example/src/pages/hello-world",
+      "base": "chart.json",
+      "ext": ".json",
+      "name": "chart",
+      "relativeDirectory": "hello-world",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8592584896,
+      "blocks": 8,
+      "atimeMs": 1527343254655.306,
+      "mtimeMs": 1527283675747.4263,
+      "ctimeMs": 1527283675763.0588,
+      "birthtimeMs": 1527283657651.204,
+      "atime": "2018-05-26T14:00:54.655Z",
+      "mtime": "2018-05-25T21:27:55.747Z",
+      "ctime": "2018-05-25T21:27:55.763Z",
+      "birthtime": "2018-05-25T21:27:37.651Z"
+    },
+    "/www/gatsby-remark-vega-example/src/pages/hello-world/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/www/gatsby-remark-vega-example/src/pages/hello-world/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/www/gatsby-remark-vega-example/src/pages/hello-world/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: An example chart\ndate: \"2018-05-25T12:12:03.284Z\"\n---\n\nMy awesome post needs a chart:\n\n`vega:chart.json`\n\nLook at that chart!\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "155860e9b8eebf757694c2da16a7fabc",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "An example chart",
+        "date": "2018-05-25T12:12:03.284Z",
+        "_PARENT": "/www/gatsby-remark-vega-example/src/pages/hello-world/index.md absPath of file",
+        "parent": "/www/gatsby-remark-vega-example/src/pages/hello-world/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/www/gatsby-remark-vega-example/src/pages/hello-world/index.md",
+      "fields": {
+        "slug": "/hello-world/"
+      }
+    },
+    "SitePage /hello-world/": {
+      "layout": "index",
+      "jsonName": "hello-world.json",
+      "internalComponentName": "ComponentHelloWorld",
+      "path": "/hello-world/",
+      "component": "/www/gatsby-remark-vega-example/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/hello-world/",
+        "previous": null,
+        "next": null
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/www/gatsby-remark-vega-example/src/templates/blog-post.js",
+      "id": "SitePage /hello-world/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9843279e7a232804403ac779fd56afc8",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/www/gatsby-remark-vega-example/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/www/gatsby-remark-vega-example/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "831c1539dbe2cb4107ab0e4f026dc8bb",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/www/gatsby-remark-vega-example/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/www/gatsby-remark-vega-example/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "130f98ce4abdd26cc40043dde6fa2f8d",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/www/gatsby-remark-vega-example/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/www/gatsby-remark-vega-example/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f354cdd7a1de1830b1d26835d96c597c",
+        "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "6d327b236f0b652b1c6aca8a0d5f0ac2"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "/hello-world/",
+        "/"
+      ],
+      "/www/gatsby-remark-vega-example/src/pages/hello-world/index.md absPath of file >>> MarkdownRemark": [
+        "/hello-world/"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/"
+      ],
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}
